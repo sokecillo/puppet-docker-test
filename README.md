@@ -1,7 +1,9 @@
 # puppet-docker-test
 Docker Testing for puppet control repo
 
-Drop both sh and Dockerfile on your puppet-control-repo root folder.
+Drop all files on your puppet-control-repo root folder.
+
+You need to follow the hierarchy defined on hiera.yaml
 
 For running tests:
 ```
